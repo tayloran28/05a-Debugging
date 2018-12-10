@@ -245,7 +245,7 @@ def broken_3(n, point, length, distance_between_lines, window):
 
 
 # -----------------------------------------------------------------------------
-# TODO: 6. Follow the INSTRUCTIONS AT THE TOP OF THIS MODULE
+# DONE: 6. Follow the INSTRUCTIONS AT THE TOP OF THIS MODULE
 #          to correct the mistake(s) in the following function.
 # -----------------------------------------------------------------------------
 def broken_4(x, y, radius, window):
